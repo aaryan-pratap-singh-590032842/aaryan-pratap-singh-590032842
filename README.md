@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Aaryan  
 
-<!--
-**aaryan-pratap-singh-590032842/aaryan-pratap-singh-590032842** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+﻿﻿Computer Science Student
+﻿﻿skilled in C,C++ ‚java ,DSA
+﻿﻿machine learning
+﻿﻿Building projects and learning new technologies
+  
+Skills
+C
+﻿﻿C++
+﻿﻿DSA
+ML
 
-Here are some ideas to get you started:
+Current Goals
+﻿﻿Build real-world projects
+﻿﻿Improve programming and software design skills
+﻿﻿Contribute to open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect With Me
+• Email: aaryan.32842@stu.upes.ac.in
